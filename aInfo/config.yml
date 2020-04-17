@@ -1,0 +1,5 @@
+#"JavaSE.info.reload" for /rules reload
+#Use "JavaSE.info.arg" for individual file access
+linesPerPage: 10
+invalidPermissionForFile: '&4That information is classified. If you believe this to be an error, please inform staff.'
+invalidPageMessage: '&4Sorry, that page does not exist.'

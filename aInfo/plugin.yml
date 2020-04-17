@@ -1,0 +1,14 @@
+main: club.hardcoreminecraft.javase.Info.main
+name: Info
+description: type /info
+author: JavaSE
+version: 1.0.0
+loadbefore: [Essentials, WorldEdit, FastAsyncWorldEdit]
+commands:
+  info:
+    description: See the servers info. Default arg has no permission. JavaSE.info.arg
+  einfo:
+    description: See the servers rules. Default arg has no permission. JavaSE.info.arg
+permissions:
+  JavaSE.info.arg:
+    default: true
